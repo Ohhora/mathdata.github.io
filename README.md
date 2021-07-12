@@ -1,2 +1,5 @@
 # mathdata.github.io
-$a = b$
+Here is my repository.
+I want to write here what i see, listen, think and pratice.
+
+So, Here is for my everything
